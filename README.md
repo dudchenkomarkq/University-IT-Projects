@@ -31,7 +31,7 @@ A collection of technical projects and laboratory works focused on Linux/Windows
 
 ---
 ## 📂 Project Files
-* [Data Center Infrastructure Report](./sprawozdanie_Data_Center.pdf.pdf) - Detailed Windows Server & Hybrid AD setup.
-* [Storage & LVM Management](./Montowanie_zasobów_lokalnychh.pdf.pdf) - Linux disk subsystem configuration.
+* [Data Center Infrastructure Report](sprawozdanie_Data_Center.pdf) - Detailed Windows Server & Hybrid AD setup.
+* [Storage & LVM Management](Montowanie%20zasobów%20lokalnychh.pdf) - Linux disk subsystem configuration.
 
 *More projects, including an automated IPS (Intrusion Prevention System) with Fail2Ban, are coming soon.*
