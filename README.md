@@ -21,6 +21,9 @@ A collection of technical projects and laboratory works focused on Linux/Windows
 * **Password Complexity:** Enforcing strict requirements using `pam_pwquality` (minlen, dcredit, ucredit, etc.).
 * **Remote Management:** Configuring and hardening SSH access for secure server administration.
 
+### ⚙️ Automation & Task Scheduling
+* **Cron Jobs:** Automating repetitive tasks using `crontab` (managing both user-specific and system-wide scheduled tasks).
+  
 ### 💾 Storage & Disk Management (Linux)
 * **Partitioning:** Professional use of `fdisk`, `gdisk`, and `blkid`.
 * **Software RAID (mdadm):** * Implementing standard levels: RAID 0, 1, and 5.
