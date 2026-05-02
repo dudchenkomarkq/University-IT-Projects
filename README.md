@@ -39,9 +39,8 @@ A collection of technical projects and laboratory works focused on Linux/Windows
 ## 📂 Project Files
 
 ### 🐧 Linux & Security Projects
-* [**Security & Authentication Hardening**](Документ%2010.pdf) — Setup of Debian security modules (PAM, Faillock, Password policies).
-* [**Advanced RAID & LVM Configuration**](Document%207.pdf) — Building complex storage architectures (Nested RAID, LVM, Swap optimization).
-* [**Storage & LVM Management**](Montowanie%20zasobów%20lokalnychh.pdf) — Linux disk subsystem configuration and mounting.
+* [**Security & Authentication Hardening**](5.pdf) — Setup of Debian security modules (PAM, Faillock, Password policies).
+* [**Storage & LVM Management**](Montowanie%20zasobów%20lokalnychh.pdf) — Linux disk subsystem configuration and mounting/Building complex storage architectures (Nested RAID, LVM, Swap optimization).
 
 ### 🪟 Windows & Network Infrastructure
 * [**Data Center Infrastructure Report**](sprawozdanie_Data_Center.pdf) — Detailed Windows Server & Hybrid AD setup.
