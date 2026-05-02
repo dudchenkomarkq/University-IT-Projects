@@ -42,7 +42,7 @@ A collection of technical projects and laboratory works focused on Linux/Windows
 ## 📂 Project Files
 
 ### 🐧 Linux & Security Projects
-* [**Security & Authentication Hardening**](5.pdf) — Setup of Debian security modules (PAM, Faillock, Password policies).
+* [**Security & Authentication Hardening**](Linux_Security_Lab.pdf) — Setup of Debian security modules (PAM, Faillock, Password policies).
 * [**Storage & LVM Management**](Montowanie%20zasobów%20lokalnychh.pdf) — Linux disk subsystem configuration and mounting/Building complex storage architectures (Nested RAID, LVM, Swap optimization).
 
 ### 🪟 Windows & Network Infrastructure
