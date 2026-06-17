@@ -44,9 +44,8 @@ A collection of technical projects and laboratory works focused on Linux/Windows
 ### 🐧 Linux & Security Projects
 * [**Security & Authentication Hardening**](Linux_Security_Lab.pdf) — Setup of Debian security modules (PAM, Faillock, Password policies).
 * [**Storage & LVM Management**](Montowanie%20zasobów%20lokalnychh.pdf) — Linux disk subsystem configuration and mounting/Building complex storage architectures (Nested RAID, LVM, Swap optimization).
-
+* [**fail2ban**](fail2ban.pdf) -
 ### 🪟 Windows & Network Infrastructure
 * [**Data Center Infrastructure Report**](Data_Center_laboratoria.pdf) — Detailed Windows Server & Hybrid AD setup.
 
----
-*More projects, including an automated IPS (Intrusion Prevention System) with Fail2Ban, are coming soon.*
+
